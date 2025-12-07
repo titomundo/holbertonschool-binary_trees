@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
-* binary_tree_preorder - deletes an entire binary tree
+* binary_tree_preorder - travels trough a binary tree in preorder
 * @tree: tree to DESTROY
 * @func: pointer to a function
 *
