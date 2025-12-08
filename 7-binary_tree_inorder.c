@@ -2,7 +2,7 @@
 
 /**
 * binary_tree_inorder - travels trough a binary tree in order
-* @tree: tree to DESTROY
+* @tree: tree to traversal
 * @func: pointer to a function
 *
 * Return: void

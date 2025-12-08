@@ -2,7 +2,7 @@
 
 /**
 * binary_tree_postorder - travels trough a binary tree in postorder
-* @tree: tree to DESTROY
+* @tree: tree to traversal
 * @func: pointer to a function
 *
 * Return: void
